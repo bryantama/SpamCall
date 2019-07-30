@@ -7,7 +7,7 @@ UPDATE 29-juli-2019
 <li>$ pkg update && pkg upgrade
 <li>$ pkg install php
 <li>$ pkg install git
-<li>$ git clone https://github.com/bryantama/bryantama/blob/master/SpamCall
+<li>$ git clone https://github.com/bryantama/SpamCall
 <li>$ cd SpamSms
 <li>$ php SpamCall.php
 <li> Masukan No Target ===> 
