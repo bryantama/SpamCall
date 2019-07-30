@@ -6,5 +6,5 @@ $ pkg install php
 $ pkg install git
 $ git clone https://github.com/bryantama/SpamCall
 $ cd SpamCall
-$ php enox.php
+$ php SpamCall .php
 </pre>
