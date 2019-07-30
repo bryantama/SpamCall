@@ -4,7 +4,7 @@ Spam Sms &amp; Call (Only for Termux)
 $ apt update && apt upgrade
 $ pkg install php
 $ pkg install git
-$ git clone https://github.com/bryantama/BryanGanteng
-$ cd BryanGanteng
+$ git clone https://github.com/bryantama/SpamCall
+$ cd SpamCall
 $ php enox.php
 </pre>
